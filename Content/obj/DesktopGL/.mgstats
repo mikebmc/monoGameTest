@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/mikebmc/projects/monogame/monoGameTest/Content/BODY_skeleton.png","/Users/mikebmc/projects/monogame/monoGameTest/Content/bin/DesktopGL/BODY_skeleton.xnb","TextureProcessor","Texture2DContent",23754,589909,0.294822
