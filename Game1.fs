@@ -88,7 +88,7 @@ type Game1 () as this =
         base.Update(gameTime)
  
     override this.Draw (gameTime) =
-        this.GraphicsDevice.Clear Color.CornflowerBlue
+        this.GraphicsDevice.Clear Color.Black
         spriteBatch.Begin()
         player.Draw(spriteBatch)
         spriteBatch.End()
